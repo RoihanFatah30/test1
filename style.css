@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #000;
+}
+
+p {
+  font-size: 15px;
+  line-height: 18px;
+  text-align: justify;
+  background: url(imgTest1.jpg);
+  -webkit-background-size: cover;
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0);
+}
